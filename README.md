@@ -16,9 +16,9 @@ Using the Instacart Public Datasets, we are focusing on solving following proble
 Keywords - Recommendation; Market Basket Analysis; Machine Learning; Light GBM; XGBoost; K-Means
 
 ## About the Maintainer
+This project is currently maintained by Rajvinder Kaur Dadiala, a Data Analyst with 3+ years of professional experience and a strong background in data analytics, reporting, and business operations. Rajvinder is skilled in leveraging Python (Pandas, NumPy, Matplotlib), SQL, and Excel to extract insights, automate workflows, and support data-driven decision-making.
 
-This project is currently maintained by Bhoomi Jain, a Data Analyst with a strong background in data analytics, reporting, and business operations. Bhoomi leverages Python (Pandas, NumPy, Matplotlib) and SQL to extract insights, automate workflows, and support data-driven decision-making.
+For inquiries or collaborations, please reach out via:
 
-Connect with Bhoomi:
-- LinkedIn: https://linkedin.com/in/bhoomi21
-- Email: bhoomijain10@gmail.com
+Email: rajvinder.dadiala@gmail.com
+LinkedIn: Rajvinder Kaur Dadiala
